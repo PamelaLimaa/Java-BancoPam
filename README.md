@@ -2,7 +2,7 @@
 
 ## 📋 Descrição
 
-Este projeto é um terminal bancário simples desenvolvido em Java, utilizando a **IDE IntelliJ**, este terminal bancário permite que o usuário realize operações básicas de forma prática e rápida.
+Este projeto é um terminal bancário simples desenvolvido em Java, utilizando  **ECLIPSE**, este terminal bancário permite que o usuário realize operações básicas de forma prática e rápida.
 
 ## 🛠️ Tecnologias Utilizadas
 
